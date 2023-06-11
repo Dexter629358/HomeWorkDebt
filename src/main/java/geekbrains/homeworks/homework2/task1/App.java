@@ -11,6 +11,7 @@ public class App {
     }
 
     /**
+     * @param sc Scanner to read user data
      * @param n number of incoming numbers
      * @return sum of primes numbers
      * @apiNote Sums only primes numbers
