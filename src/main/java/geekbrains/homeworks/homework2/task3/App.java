@@ -1,7 +1,5 @@
 package geekbrains.homeworks.homework2.task3;
 
-import java.util.Scanner;
-
 public class App {
     public static void main(String[] args) {
 //        int[] nums = new int[]{1, 22, 33, 44, 5, -5, -3, 23, -7};
