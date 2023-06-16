@@ -1,6 +1,6 @@
 # Task 1
 
-Information about the exported goods is given:
+Information about the exported products is given:
 
 - product name
 - country exporting the product
