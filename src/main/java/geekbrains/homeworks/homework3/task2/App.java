@@ -16,6 +16,7 @@ public class App {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a grade: ");
         int grade = sc.nextInt();
+        sc.close();
 
         List<String> result = findCheapestProductsByGrade(products, grade);
         System.out.println("result = " + result);
