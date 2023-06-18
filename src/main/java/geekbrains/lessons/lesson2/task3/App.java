@@ -11,7 +11,7 @@ public class App {
     }
 
     /**
-     * @param n number of numbers
+     * @param n  number of numbers
      * @param sc Scanner object to read numbers
      * @return sum of valid sequence
      * @apiNote Finds the sum of the numbers ending in 5, preceded by an even number.

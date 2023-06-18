@@ -1,6 +1,6 @@
 # Task 4
 
-An array of integers is given. Find the number of pairs of neighboring elements, 
+An array of integers is given. Find the number of pairs of neighboring elements,
 where the first element is twice as large as the second.
 
 ## Example

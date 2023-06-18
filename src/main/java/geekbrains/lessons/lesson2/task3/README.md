@@ -1,6 +1,6 @@
 # Task 3
 
-A sequence of N integers is given. Find the sum of the numbers ending in 5, preceded 
+A sequence of N integers is given. Find the sum of the numbers ending in 5, preceded
 by an even number.
 
 ## Example
