@@ -1,0 +1,7 @@
+# Task 1
+
+Count the number of occurrences of each character in the text.
+
+## Example
+
+- `hello world` -> `{ =1, r=1, d=1, e=1, w=1, h=1, l=3, o=2}`

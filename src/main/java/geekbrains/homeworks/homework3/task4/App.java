@@ -37,7 +37,6 @@ public class App {
         return min;
     }
 
-
     /**
      * @param numbers list of integers
      * @return maximum integer
