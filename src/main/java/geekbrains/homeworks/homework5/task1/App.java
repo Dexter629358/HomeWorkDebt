@@ -18,7 +18,6 @@ public class App {
         System.out.println("result = " + result);
     }
 
-
     /**
      * @param text string
      * @param word word to find
