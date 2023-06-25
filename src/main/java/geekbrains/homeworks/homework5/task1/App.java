@@ -26,7 +26,7 @@ public class App {
      * @apiNote Counts the number of occurrences of a word in the text.
      */
     public static Map<String, Integer> countWord(String text, String word) {
-        String[] words = text.split("[ .]");
+        String[] words = text.split("[ .,!?:;]");
         Map<String, Integer> counter = new HashMap<>();
         String wordLower = word.toLowerCase();
 
