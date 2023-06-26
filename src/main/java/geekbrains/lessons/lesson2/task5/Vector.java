@@ -40,9 +40,7 @@ public class Vector {
      * @apiNote Calculates the length of the vector.
      */
     public double length() {
-        return Math.sqrt(this.x * this.x +
-                this.y * this.y +
-                this.z * this.z);
+        return Math.sqrt(this.x * this.x + this.y * this.y + this.z * this.z);
     }
 
     /**
@@ -60,9 +58,7 @@ public class Vector {
      * @apiNote Calculates the product.
      */
     public Vector multi(Vector vector) {
-        return new Vector(this.y * vector.z - this.z * vector.y,
-                this.z * vector.x - this.x * vector.z,
-                this.x * vector.y - this.y * vector.x);
+        return new Vector(this.y * vector.z - this.z * vector.y, this.z * vector.x - this.x * vector.z, this.x * vector.y - this.y * vector.x);
     }
 
     /**

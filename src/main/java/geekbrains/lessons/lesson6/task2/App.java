@@ -14,10 +14,10 @@ public class App {
     }
 
     /**
-     * @apiNote Find intersections and returns a set of intersections.
      * @param set1 first set of numbers
      * @param set2 second set of numbers
      * @return set of numbers
+     * @apiNote Find intersections and returns a set of intersections.
      */
     public static Set<Integer> findIntersections(Set<Integer> set1, Set<Integer> set2) {
         Set<Integer> result = new HashSet<>();

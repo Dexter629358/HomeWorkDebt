@@ -12,10 +12,10 @@ public class App {
     }
 
     /**
-     * @apiNote Find intersections and counts intersections.
      * @param arr1 first list of strings
      * @param arr2 second list of strings
      * @return map of strings and count of intersections
+     * @apiNote Find intersections and counts intersections.
      */
     public static Map<String, Integer> findIntersectionsAndCount(List<String> arr1, List<String> arr2) {
         HashMap<String, Integer> map1 = new HashMap<>();

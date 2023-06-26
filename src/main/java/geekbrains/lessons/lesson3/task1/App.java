@@ -32,7 +32,6 @@ public class App {
             resultList.add(item4);
         }
 
-
         return resultList;
     }
 
